@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-debug-42:\\drawable_target_guide.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-main-44:\\drawable\\target_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-debug-42:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-main-44:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "com.shootingscore.app-debug-42:/layout_activity_settings.xml.flat",
+        "source": "com.shootingscore.app-main-44:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-debug-42:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-main-44:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-debug-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-debug-42:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-main-44:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-debug-42:\\drawable_ic_camera_header.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-main-44:\\drawable\\ic_camera_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-debug-42:\\drawable_ic_back_arrow.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-main-44:\\drawable\\ic_back_arrow.xml"
+    }
+]

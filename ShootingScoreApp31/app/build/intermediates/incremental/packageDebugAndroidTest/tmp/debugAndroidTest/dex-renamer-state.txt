@@ -1,0 +1,4 @@
+#Tue Aug 25 11:18:22 MYT 2026
+base.0=D\:\\android app\\ShootingScoreApp3\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

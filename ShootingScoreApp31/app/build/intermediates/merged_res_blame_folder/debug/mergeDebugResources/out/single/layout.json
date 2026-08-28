@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.shootingscore.app-mergeDebugResources-41:/layout/activity_settings.xml",
+        "source": "com.shootingscore.app-main-44:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-mergeDebugResources-41:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-main-44:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-mergeDebugResources-41:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.shootingscore.app-main-44:\\layout\\activity_main.xml"
+    }
+]

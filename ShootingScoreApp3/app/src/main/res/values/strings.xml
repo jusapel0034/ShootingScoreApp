@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shooting Score</string>
+    <string name="version_format">Version %1$s</string>
+</resources>

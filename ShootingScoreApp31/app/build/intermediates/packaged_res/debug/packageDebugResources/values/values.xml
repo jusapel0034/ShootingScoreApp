@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#27ae60</color>
+    <color name="background">#f0f4f8</color>
+    <color name="black">#FF000000</color>
+    <color name="card_background">#ffffff</color>
+    <color name="primary">#3498db</color>
+    <color name="primary_dark">#2980b9</color>
+    <color name="primary_light">#5dade2</color>
+    <color name="target_dark">#34495e</color>
+    <color name="target_light">#5d6d7e</color>
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Shooting Score</string>
+    <string name="version_format">Version %1$s</string>
+    <style name="Theme.ShootingScoreApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+</resources>
